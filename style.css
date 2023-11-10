@@ -32,3 +32,8 @@ h2
     font-family: comic sans ms;
     font-weight: bold;
 }
+.grid img
+{
+    height: 100%;
+    width: 100%;
+}
